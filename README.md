@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning Python
 <!--
 **alexbrandao1978/alexbrandao1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
